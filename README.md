@@ -1,12 +1,13 @@
-# 👨‍💻 Departmental Storage Retrieval Portal for WCE,Sangli 👨‍💻
-## JUL 2020 – FEB 2021
-## The code of this project is currently in a private repository as instructed by our Customer - Walchand College of Engineering Sangli.
+# 👨‍💻 ANNUAL REPORT GENERATION SYSTEM FOR WCE,SANGLI 👨‍💻
+## March 2021 – June 2021
+## The code of this project is currently in a private repository as instructed by our Customer - Walchand College of Engineering, Sangli.
 
-### Implemented Role Based Access Control and Content management system to handle the different permissions that faculty and students will need. 
-### Implemented different queries that fetch data and create reports of the required entities like courses,projects, etc. based on selected parameters and specified time frames.
-### Tech Stack : Django,SQLite,Javascript,HTML,CSS
+### Implemented Role-Based Access Control and Content management system to handle the different permissions that faculty will need. Implemented different views that fetch and create annualreport of the college. 
+### The Annual Report Generation System is automation of manual system and report generation which enables the userto assess necessary data at any place and any time through the internet.
+### This project aims to keep the track of college activities and generate an annual report.
+### Tech Stack: Django, HTML, CSS, Javascript, Bootstrap, SQLite
 
-#### The project is going to be deployed for use. Until then here are some snaps for the project : 
+## Gallery ⚡️ 
 
 ![Img1](/Screenshots-project/1.png)
 ![Img2](/Screenshots-project/2.png)
