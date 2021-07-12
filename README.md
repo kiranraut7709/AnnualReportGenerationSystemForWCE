@@ -1,4 +1,4 @@
-# 👨‍💻 ANNUAL REPORT GENERATION SYSTEM FOR WCE,SANGLI 👨‍💻
+# 👨‍💻 ANNUAL REPORT GENERATION SYSTEM FOR WCE, SANGLI 👨‍💻
 ## March 2021 – June 2021
 ## The code of this project is currently in a private repository as instructed by our Customer - Walchand College of Engineering, Sangli.
 
